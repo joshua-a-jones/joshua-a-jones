@@ -6,9 +6,9 @@ I am a science educator with a strong passion for astronomy, space exploration, 
 I love to learn and I program for fun!
 
 ## Check out some of my projects
-[Javascript Calculator](https://joshua-a-jones.github.io/js_calculator/)
-[React Weather App](https://joshua-a-jones.github.io/weather-app/)
-[Javascript Etch-A-Sketch App](https://joshua-a-jones.github.io/etch-a-sketch/)
+- [Javascript Calculator](https://joshua-a-jones.github.io/js_calculator/)
+- [React Weather App](https://joshua-a-jones.github.io/weather-app/)
+- [Javascript Etch-A-Sketch App](https://joshua-a-jones.github.io/etch-a-sketch/)
 <!--
 **joshua-a-jones/joshua-a-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
