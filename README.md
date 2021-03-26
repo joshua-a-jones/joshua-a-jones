@@ -1,4 +1,4 @@
-### Hi There!
+# Hi There!
 
 ## About Me
 I am a science educator with a strong passion for astronomy, space exploration, and mathematics. My educational background is in observational astronomy and astrophysics, with a strong focus on data analysis and computational modeling. I am also a self-taught programmer with skills ranging from machine learning to web development.
