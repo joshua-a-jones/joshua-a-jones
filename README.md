@@ -1,11 +1,11 @@
-###Hi There!
+### Hi There!
 
-#About Me
+## About Me
 I am a science educator with a strong passion for astronomy, space exploration, and mathematics. My educational background is in observational astronomy and astrophysics, with a strong focus on data analysis and computational modeling. I am also a self-taught programmer with skills ranging from machine learning to web development.
 
 I love to learn and I program for fun!
 
-#Check out some of my projects
+## Check out some of my projects
 [Javascript Calculator](https://joshua-a-jones.github.io/js_calculator/)
 [React Weather App](https://joshua-a-jones.github.io/weather-app/)
 [Javascript Etch-A-Sketch App](https://joshua-a-jones.github.io/etch-a-sketch/)
