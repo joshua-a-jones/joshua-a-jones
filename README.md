@@ -1,7 +1,5 @@
 ## Hi There!
-I am a science educator with a strong passion for astronomy, space exploration, and mathematics. My educational background is in observational astronomy and astrophysics, with a strong focus on data analysis and computational modeling. I am also a self-taught programmer with skills ranging from machine learning to web development.
-
-I love to learn and I program for fun!
+I am a former educator turned software developer with a strong passion for programming, astronomy, space exploration, and physics. My educational background is in observational astronomy and astrophysics, with a strong focus on data analysis and computational modeling. I am also a self-taught programmer with skills ranging from machine learning to web development.
 
 <!--
 **joshua-a-jones/joshua-a-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
