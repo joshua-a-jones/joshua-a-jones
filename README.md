@@ -1,5 +1,5 @@
 ## Hi There!
-I am a former educator turned software developer with a strong passion for programming, astronomy, space exploration, and physics. My educational background is in observational astronomy and astrophysics, with a strong focus on data analysis and computational modeling. I am also a self-taught programmer with skills ranging from machine learning to web development.
+I am a former educator-turned software developer with a strong passion for programming, space exploration, and physics. These days I work as a full-stack developer and code in C#, Typescript, and occasionally Python. I am always learning and love to pick up and play with new technologies!
 
 <!--
 **joshua-a-jones/joshua-a-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a typescript implementation of John Conway's Game of Life with my twin brother!
+- 🌱 I’m currently learning Azure cloud services and working on getting an Azure Developer Associate certification
+- 😄 Pronouns: he/him
