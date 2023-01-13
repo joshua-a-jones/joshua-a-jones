@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a typescript implementation of John Conway's Game of Life with my twin brother!
-- 🌱 I’m currently learning Azure cloud services and working on getting an Azure Developer Associate certification
+- 🌱 I’m currently learning Rust!
 - 😄 Pronouns: he/him
