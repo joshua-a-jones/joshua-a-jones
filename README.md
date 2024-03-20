@@ -5,4 +5,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Vue!
 - 😄 Pronouns: he/him
-- - 📫 How to reach me: joshua.desjones@gmail.com
+- 📫 How to reach me: joshua.desjones@gmail.com
